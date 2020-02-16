@@ -183,9 +183,7 @@ header.masthead h2 {
   font-style: italic;
   color: #1a252f;
 }
-header.masthead .heya{
-  border-image: round;
-}
+
 
 @media (min-width: 992px) {
   header.masthead {
@@ -331,7 +329,7 @@ form .row:first-child .floating-label-form-group {
   padding-top: 5rem;
   padding-bottom: 5rem;
   background-color: #2C3E50;
-  color: #fff;
+  color:black;
 }
 
 .copyright {
